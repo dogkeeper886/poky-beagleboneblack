@@ -1,0 +1,8 @@
+conf/bblayers.conf
+conf/templateconf.cfg
+bitbake.lock
+cache/
+downloads/
+tmp/
+sstate-cache/
+bitbake-cookerdaemon.log
