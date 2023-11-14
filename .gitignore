@@ -6,3 +6,5 @@ downloads/
 tmp/
 sstate-cache/
 bitbake-cookerdaemon.log
+workspace/
+.gitignore
