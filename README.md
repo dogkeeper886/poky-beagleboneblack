@@ -19,9 +19,6 @@ To enable support for the WiFi USB adapter, follow these steps to create a layer
 1. Clone the meta repository for your Yocto version:
    ```bash
    git clone -b kirkstone https://github.com/dogkeeper886/meta-mt7601u
-2. Create a layer:
-   ```bash
-   bitbake-layers create-layer ../path/to/your/meta-mt7601u   
 2. Add the newly created layer to your Yocto project:
    ```bash
    bitbake-layers add-layer ../path/to/your/meta-mt7601u
